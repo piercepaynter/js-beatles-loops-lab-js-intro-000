@@ -23,7 +23,7 @@ function iLoveTheBeatles(num){
     num = num + 1;
     return num;
   }
-  
+
   do {
     array.push("I love the Beatles!");
   }
